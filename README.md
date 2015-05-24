@@ -11,8 +11,8 @@ that will provide the user a generic form he can use.
 
 Google Forms, however, has some problems:
 
-1) Styling: They look like google forms
-2) Privacy: They are **google** forms
+1. Styling: They look like google forms
+2. Privacy: They are **google** forms
 
 So, I have decided to explore how far I can take the creation of such a service in a lean project:
 
